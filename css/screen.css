@@ -1,0 +1,153 @@
+/*Overall*/
+body 
+{
+	background-color:#333333;
+	margin:0px;
+	padding:0px;
+	font-family:"Verdana", "Helvetica", "Sans-serif";
+}
+
+.container
+{
+	width:900px;
+	background-color:black;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+/*header*/
+.header
+{
+	width:900px;
+	height:200px;
+
+}
+
+.header img
+{
+	width:180px;
+	height:180px;
+	margin:0px;
+	padding-top:13px;
+	padding-bottom:10px;
+	padding-right:0px;
+	padding-left:90px;
+	float:left;
+}
+
+.header p
+{
+	width:260px;
+	height:129px;
+	margin:0px;
+	margin-top:10px;
+	padding-top:59px;
+	padding-left:40px;
+	float:left;
+	text-align:left;
+	
+	border-left:solid;
+	border-color:white;
+	border-width:2px;
+	color:white;
+	font-family:Helvetica;
+}
+
+.header a
+{
+	color:#00FFFF;
+}
+
+
+/*Nav Bar*/
+
+.navbar
+{
+	width:260px;
+	height:150px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:40px;
+	float:left;
+
+}
+.navbar ul
+{
+	text-align:center;
+
+	margin:0px;
+	padding:0px;
+}
+
+.navbar li
+{
+	list-style-type:none;
+	font-size:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.navbar a:link
+{
+	color:white;
+
+}
+
+.navbar a:visited
+{
+	color:white;
+}
+
+.navbar li:hover
+{
+	background-color:gray;
+	text-decoration:none;
+}
+
+
+.divider
+{
+	width: 850px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/*Content*/
+
+.main
+{
+	width:800px;
+	margin:0px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+	color:white;
+}
+
+.main a:link
+{
+	color:#00FFFF;
+}
+
+.main h3
+{
+	padding-top:15px;
+}
+
+
+/*footer*/
+footer
+{
+	width:850px;
+	margin:0px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:10px;
+	padding-bottom:10px;
+	color:white;
+	font-size:10px;
+}
