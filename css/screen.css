@@ -79,6 +79,7 @@ body
 
 	margin:0px;
 	padding:0px;
+	
 }
 
 .navbar li
@@ -92,12 +93,11 @@ body
 .navbar a:link
 {
 	color:white;
-
 }
 
 .navbar a:visited
 {
-	color:white;
+	color:white;	
 }
 
 .navbar li:hover
@@ -131,6 +131,11 @@ body
 .main a:link
 {
 	color:#00FFFF;
+}
+
+.main a:visited
+{
+	color:#FF2121;
 }
 
 .main h3

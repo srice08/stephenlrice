@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>css/screen.css</string>
+	<string>files/SkylineProblem/Main.java</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
 			<string>code.html</string>
 			<key>lastUsed</key>
-			<date>2013-09-19T18:46:37Z</date>
+			<date>2013-09-20T21:30:30Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -20,7 +20,7 @@
 			<key>filename</key>
 			<string>index.html</string>
 			<key>lastUsed</key>
-			<date>2013-09-19T18:48:41Z</date>
+			<date>2013-09-20T19:48:40Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -66,14 +66,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>10</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>63</integer>
+				<integer>51</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>52</integer>
+			<integer>29</integer>
 		</dict>
 		<key>css/screen.css</key>
 		<dict>
@@ -83,6 +83,20 @@
 				<integer>4</integer>
 				<key>line</key>
 				<integer>3</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>files/SkylineProblem/Main.java</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>3</integer>
+				<key>line</key>
+				<integer>2</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -101,7 +115,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>18</integer>
+			<integer>16</integer>
 		</dict>
 		<key>research.html</key>
 		<dict>
@@ -122,12 +136,13 @@
 	<array>
 		<string>index.html</string>
 		<string>code.html</string>
+		<string>files/SkylineProblem/Main.java</string>
 		<string>research.html</string>
 		<string>css/screen.css</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{243, 131}, {842, 642}}</string>
+	<string>{{287, 28}, {842, 642}}</string>
 </dict>
 </plist>
